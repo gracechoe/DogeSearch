@@ -8,26 +8,34 @@
 #store this shit in a database (probably MongoDB)
 import json
 from bs4 import BeautifulSoup
+import nltk
+import re
 
 def access_files():
     path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
     bookkeeping = open(path+"bookkeeping.json", "r")
     data = json.load(bookkeeping)
-    for key in data:
-        parse_file(path+key)
+    #for key in data:
+    parse_file(path+"0/33")
 
 def parse_file(path):
+    freq_dict = {}
     f = open(path)
     soup = BeautifulSoup(f.read(), "html.parser")
     soup.prettify()
-    #print(soup.get_text())
-    print(find_tags(soup))
-
+    text = find_tags(soup).encode('utf-8')
+    tokens = re.findall(r"[A-Za-z0-9]+", text.lower())
+    for token in tokens:
+        if token in freq_dict:
+            freq_dict[token] += 1
+        else:
+            freq_dict[token] = 1
+    print(freq_dict)
 
 def find_tags(soup):
-    result = soup.findAll(["body", "title", "h1", "h2", "h3", "b", "strong"])
-    #return result
-    return soup
+    [s.extract() for s in soup(['style', 'script', 'head'])]
+    result = soup.get_text()
+    return result
 
 if __name__ == "__main__":
     access_files()
