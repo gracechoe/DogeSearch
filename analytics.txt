@@ -1,12 +1,25 @@
 PROGRAM ANALYTICS
- Number of Documents: 54
- Number of Unique Words: 1936
- Total size of Index on Disk (in KB):36
+ Number of Documents: 100
+ Number of Unique Words: 5494
+ Total size of Index on Disk (in KB):68
  URL results for Query [Informatics]: 
 sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
 www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
 www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/index.php
 wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/wics-attends-cwic-socal
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/index.php
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+www.ics.uci.edu/~dsm/cypress/publications.html
+www.ics.uci.edu/alumni/mentor/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/inductees.aspx.php
+www.ics.uci.edu/brenhall/community/events/index.php
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/index.php
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
 
  URL results for Query [Mondego]: 
 
@@ -15,12 +28,19 @@ cml.ics.uci.edu/aiml/page/12
 sli.ics.uci.edu/Site/UserCreation
 fano.ics.uci.edu/ca/gliders/g1434.html
 sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
-cml.ics.uci.edu/aiml/page/12
-sli.ics.uci.edu/Site/UserCreation
-fano.ics.uci.edu/ca/gliders/g1434.html
-cml.ics.uci.edu/aiml/page/12
-sli.ics.uci.edu/Site/UserCreation
-fano.ics.uci.edu/ca/gliders/g1434.html
-cml.ics.uci.edu/aiml/page/12
-sli.ics.uci.edu/Site/UserCreation
-fano.ics.uci.edu/ca/gliders/g1434.html
+cml.ics.uci.edu/2007/12/2007_honors
+www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/student-affairs
+fano.ics.uci.edu/cites/Review/MR-92j52023.html
+cbcl.ics.uci.edu/doku.php/start?do=diff&rev2%5B0%5D=1396651030&rev2%5B1%5D=1485305125&difftype=sidebyside
+www.ics.uci.edu/~sjordan/courses/ics11/outline.html
+fano.ics.uci.edu/cites/Publication/FerNie-MFCS-99.html
+chenli.ics.uci.edu/biography
+duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
+fano.ics.uci.edu/cites/Author/James-H-Oliver.html
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Abalonedatasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Car+Evaluation
+fano.ics.uci.edu/cites/Document/Multiple-sequence-comparison-and-consistency-on-multipartite-graphs.html
+www.ics.uci.edu/prospective/en/contact/student-affairs/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/student-affairs/%E2%80%8B
+satware.ics.uci.edu
+www.ics.uci.edu/~wics/links.html
+fano.ics.uci.edu/cites/Location/IEE-Proc-Communications.html
