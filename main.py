@@ -5,13 +5,14 @@ from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
 def access_files():
-    path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
+    path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
     bookkeeping = open(path+"bookkeeping.json", "r")
     data = json.load(bookkeeping)
     count = 0
     for key in data:
-        if count < 1000:
-            process_file(path,key)
+        if count > 150:
+            break
+        process_file(path,key)
         count += 1
         print(count)
     complete_index()
@@ -42,33 +43,37 @@ def process_file(path, key):
     freq_dict = {}
     f = open(path+key)
     soup = BeautifulSoup(f.read(), "html.parser")
-    soup.prettify()
-    text = find_tags(soup)
-    tokens = re.findall(r"[A-Za-z0-9]+", text.lower())
-    for token in tokens:
-        if token in freq_dict:
-            freq_dict[token] += 1
-        else:
-            freq_dict[token] = 1
+    try:
+        soup.prettify()
+        text = find_tags(soup)
+        tokens = re.findall(r"[A-Za-z0-9]+", text.lower())
+        for token in tokens:
+            if token in freq_dict:
+                freq_dict[token] += 1
+            else:
+                freq_dict[token] = 1
 
-    client = MongoClient("mongodb://localhost:27017/")
-    db = client["INVERTED_INDEX"]
-    index_col = db["index"]
-    doc_col = db["docs"]
+        client = MongoClient("mongodb://localhost:27017/")
+        db = client["INVERTED_INDEX"]
+        index_col = db["index"]
+        doc_col = db["docs"]
 
-    for token, freq in freq_dict.items():
-        if index_col.find_one({'token': token}):
-            query = {'token': token}
-            new_values = {"$push": {'documents': key, 'word_freq': freq}}
-            index_col.update_one(query, new_values)
-        else:
-            entry = {
-                'token': token, 'documents': [key], 'word_freq': [freq], 'tf-idf': []
-            }
-            result = index_col.insert(entry)
+        for token, freq in freq_dict.items():
+            if index_col.find_one({'token': token}):
+                query = {'token': token}
+                new_values = {"$push": {'documents': key, 'word_freq': freq}}
+                index_col.update_one(query, new_values)
+            else:
+                entry = {
+                    'token': token, 'documents': [key], 'word_freq': [freq], 'tf-idf': []
+                }
+                result = index_col.insert(entry)
 
-    entry = {'doc':key, 'terms_count':len(tokens)}
-    doc_col.insert(entry)
+        entry = {'doc':key, 'terms_count':len(tokens)}
+        doc_col.insert(entry)
+    except:
+        print("caught an error")
+        pass
 
 
 def find_tags(soup):
