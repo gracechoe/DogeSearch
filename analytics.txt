@@ -1,7 +1,7 @@
 PROGRAM ANALYTICS
- Number of Documents: 21
+ Number of Documents: 54
  Number of Unique Words: 1936
- Total size of Index on Disk (in KB):Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), u'INVERTED_INDEX'), u'index.totalIndexSize')
+ Total size of Index on Disk (in KB):36
  URL results for Query [Informatics]: 
 sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
 www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
@@ -11,3 +11,16 @@ wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_pag
  URL results for Query [Mondego]: 
 
  URL results for Query [Irvine]: 
+cml.ics.uci.edu/aiml/page/12
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html
+sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
+cml.ics.uci.edu/aiml/page/12
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html
+cml.ics.uci.edu/aiml/page/12
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html
+cml.ics.uci.edu/aiml/page/12
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html

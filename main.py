@@ -18,7 +18,7 @@ def access_files():
     data = json.load(bookkeeping)
     count = 0
     for key in data:
-        if count > 20:
+        if count > 10:
            break
         process_file(path,key)
         count += 1
@@ -98,7 +98,8 @@ def create_output_file():
     output_str += "\n Number of Unique Words: "
     output_str += str(col.find().count())
     output_str += "\n Total size of Index on Disk (in KB):"
-    output_str += str(col.stats(1024)["totalIndexSize"])
+    #output_str += str(col.stats(1024)["totalIndexSize"])
+    output_str += str(db.command({"collStats":"index", "scale":1024})["totalIndexSize"])
     output_str += "\n URL results for Query [Informatics]: \n"
     output_str += get_urls("Informatics")
     output_str += "\n URL results for Query [Mondego]: \n"
