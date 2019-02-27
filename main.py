@@ -4,17 +4,27 @@ import math
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
+token_ind = 0
+count = 0
+first_entry = False
+
 def access_files():
     path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
     bookkeeping = open(path+"bookkeeping.json", "r")
     data = json.load(bookkeeping)
-    count = 0
+    global count
     for key in data:
-        if count > 150:
-            break
-        process_file(path,key)
-        count += 1
         print(count)
+        # if count == 1576:
+        #     print(key)
+        #     process_file(path,key)
+        # if count == 1577:
+        #     print(key)
+        #     process_file(path, key)
+        #     break
+        process_file(path, key)
+        print("")
+        count += 1
     complete_index()
     create_output_file()
 
@@ -40,25 +50,45 @@ def complete_index():
 
 
 def process_file(path, key):
+    # global token_ind
+    # global count
+    global first_entry
     freq_dict = {}
     f = open(path+key)
     soup = BeautifulSoup(f.read(), "html.parser")
     try:
         soup.prettify()
+        #print("PRETTYYYYYYYYYYYYY")
         text = find_tags(soup)
+        #print("found tags")
         tokens = re.findall(r"[A-Za-z0-9]+", text.lower())
+        #print("found all")
+        token_count = 0
         for token in tokens:
-            if token in freq_dict:
-                freq_dict[token] += 1
-            else:
-                freq_dict[token] = 1
+            if token_count > 10000:
+                raise Exception('Token dict too long')
+            if len(token) < 20:
+                token_count += 1
+                if token in freq_dict:
+                    freq_dict[token] += 1
+                else:
+                    freq_dict[token] = 1
+        print("made dictionary")
 
         client = MongoClient("mongodb://localhost:27017/")
         db = client["INVERTED_INDEX"]
         index_col = db["index"]
         doc_col = db["docs"]
 
+        # entry = {
+        #     'token': "foo", 'documents': ["foo/foo"], 'word_freq': [0], 'tf-idf': []
+        # }
+        # result = index_col.insert(entry)
+        #
+        # index_col.ensure_index({'token':1})
+
         for token, freq in freq_dict.items():
+            #token_ind += 1
             if index_col.find_one({'token': token}):
                 query = {'token': token}
                 new_values = {"$push": {'documents': key, 'word_freq': freq}}
@@ -68,6 +98,9 @@ def process_file(path, key):
                     'token': token, 'documents': [key], 'word_freq': [freq], 'tf-idf': []
                 }
                 result = index_col.insert(entry)
+                # if first_entry == False:
+                #     index_col.ensure_index({'token': 1})
+                #     first_entry = True
 
         entry = {'doc':key, 'terms_count':len(tokens)}
         doc_col.insert(entry)
@@ -97,6 +130,7 @@ def create_output_file():
     output_str += get_urls("Mondego")
     output_str += "\n URL results for Query [Irvine]: \n"
     output_str += get_urls("Irvine")
+    print(output_str)
     log_file = open("analytics.txt", "w+")
     log_file.write(output_str)
     log_file.close()
@@ -105,7 +139,7 @@ def get_urls(token):
     client = MongoClient("mongodb://localhost:27017/")
     db = client["INVERTED_INDEX"]
     result = ""
-    bookkeeping = open("/Users/macbookpro/Documents/WEBPAGES_RAW/bookkeeping.json", "r")
+    bookkeeping = open("/Users/gracechoe/Documents/WEBPAGES_RAW/bookkeeping.json", "r")
     data = json.load(bookkeeping)
     entry = db["index"].find_one({'token':token.lower()})
     if entry:
@@ -115,7 +149,7 @@ def get_urls(token):
             if count < 20:
                 result += data[doc] + "\n"
                 count += 1
-        result += entry["documents"].count()
+        #result += len(entry["documents"])
     return result
 
 if __name__ == "__main__":
