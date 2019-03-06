@@ -113,8 +113,8 @@ def complete_index():
         token = entry['token']
 
         for doc, freq in zip(docs, freqs):
-            result = doc_col.find({'doc': doc})
-            result = result.next() 
+            result = doc_col.find_one({'doc': doc})
+            #result = result.next() #???
             term_count = result['terms_count']
 
             tf = float(freq) / term_count 
@@ -141,7 +141,6 @@ def create_output_file():
         query = raw_input("Type your query: ")
         
         if query == "q":
-            print(output_str)
             log_file = open("M2Analytics.txt", "w+")
             log_file.write(output_str)
             log_file.close()
@@ -155,16 +154,19 @@ def get_urls(token):
     global data
     global index_col
     result = ""
-
+    
     entry = index_col.find_one({'token':token.lower()})
     count = 0
     if entry:
-        for doc in entry["documents"]:
+        ranked = sorted(zip(entry["tf-idf"], entry["documents"]), key=lambda pair: -pair[0])
+        print(ranked)
+        for _, doc in ranked:
             if count < 20:
                 result += data[doc] + "\n"
             count += 1
             
     result += "total count: " + str(count)
+    print(result)
     return result
 
 if __name__ == "__main__":
