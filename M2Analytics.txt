@@ -1,38 +1,112 @@
 PROGRAM ANALYTICS
  Number of Documents: 101
- Number of Unique Words: 5394
- Total size of Index on Disk (in KB):264
- URL results for Query irvine
+ Number of Unique Words: 4399
+ Total size of Index on Disk (in KB):244
+ URL results for Query artificial intelligence
+cml.ics.uci.edu/aiml/page/12
+cml.ics.uci.edu/2007/12/2007_honors
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Abalonedatasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Car+Evaluation
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/about.html
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Gas+sensors+for+home+activity+monitoring
+www.ics.uci.edu/~dsm/cypress/publications.html
+
+ URL results for Query computer science
+fano.ics.uci.edu/cites/Publication/FerNie-MFCS-99.html
+fano.ics.uci.edu/cites/Location/Synthesis-of-Parallel-Algorithms.html
 fano.ics.uci.edu/cites/Location/IEE-Proc-Communications.html
 sli.ics.uci.edu/Profiles/Guest?action=edit
-fano.ics.uci.edu/cites/Location/Synthesis-of-Parallel-Algorithms.html
+fano.ics.uci.edu/cites/Review/MR-92j52023.html
+fano.ics.uci.edu/cites/Author/Philipp-Koehn.html
+duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
 fano.ics.uci.edu/cites/Author/James-H-Oliver.html
 fano.ics.uci.edu/cites/Document/Multiple-sequence-comparison-and-consistency-on-multipartite-graphs.html
 sli.ics.uci.edu/Site/UserCreation
-www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/student-affairs
-www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/contact/contact/contact/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
-cml.ics.uci.edu/aiml/page/12
 fano.ics.uci.edu/ca/gliders/g1434.html
-fano.ics.uci.edu/cites/Author/Philipp-Koehn.html
-fano.ics.uci.edu/cites/Publication/FerNie-MFCS-99.html
-fano.ics.uci.edu/cites/Document/An-experimental-study-of-polylogarithmic-fully-dynamic-connectivity-algorithms.html
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
 fano.ics.uci.edu/cites/Author/Giorgio-Ausiello.html
+fano.ics.uci.edu/cites/Document/An-experimental-study-of-polylogarithmic-fully-dynamic-connectivity-algorithms.html
+chenli.ics.uci.edu/biography
+cml.ics.uci.edu/2007/12/2007_honors
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/index.php
+www.ics.uci.edu/alumni/mentor/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/inductees.aspx.php
+
+ URL results for Query computer
+fano.ics.uci.edu/cites/Location/Synthesis-of-Parallel-Algorithms.html
+www.ics.uci.edu/~eppstein/projects/pairs/Data/-i12/m4000
+fano.ics.uci.edu/cites/Publication/FerNie-MFCS-99.html
 duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
 fano.ics.uci.edu/cites/Review/MR-92j52023.html
-cml.ics.uci.edu/2007/12/2007_honors
-www.ics.uci.edu/prospective/en/contact/student-affairs/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/student-affairs/%E2%80%8B
-sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
+fano.ics.uci.edu/cites/Location/IEE-Proc-Communications.html
+sli.ics.uci.edu/Profiles/Guest?action=edit
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
 www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
-total count: 31
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+fano.ics.uci.edu/cites/Author/James-H-Oliver.html
+fano.ics.uci.edu/cites/Document/Multiple-sequence-comparison-and-consistency-on-multipartite-graphs.html
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html
+fano.ics.uci.edu/cites/Author/Philipp-Koehn.html
+wics.ics.uci.edu/wics-attends-cwic-socal
+www.ics.uci.edu/~peymano/dynamic-arch/austin/brenner/tsld003.htm
+fano.ics.uci.edu/cites/Author/Giorgio-Ausiello.html
+fano.ics.uci.edu/cites/Document/An-experimental-study-of-polylogarithmic-fully-dynamic-connectivity-algorithms.html
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/index.php
+
+ URL results for Query science
+fano.ics.uci.edu/cites/Publication/FerNie-MFCS-99.html
+fano.ics.uci.edu/cites/Location/IEE-Proc-Communications.html
+fano.ics.uci.edu/cites/Author/Philipp-Koehn.html
+sli.ics.uci.edu/Profiles/Guest?action=edit
+fano.ics.uci.edu/cites/Location/Synthesis-of-Parallel-Algorithms.html
+fano.ics.uci.edu/cites/Review/MR-92j52023.html
+cml.ics.uci.edu/2007/12/2007_honors
+fano.ics.uci.edu/cites/Author/James-H-Oliver.html
+fano.ics.uci.edu/cites/Document/Multiple-sequence-comparison-and-consistency-on-multipartite-graphs.html
+sli.ics.uci.edu/Site/UserCreation
+fano.ics.uci.edu/ca/gliders/g1434.html
+chenli.ics.uci.edu/biography
+fano.ics.uci.edu/cites/Author/Giorgio-Ausiello.html
+fano.ics.uci.edu/cites/Document/An-experimental-study-of-polylogarithmic-fully-dynamic-connectivity-algorithms.html
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
+www.ics.uci.edu/~wics/links.html
+cml.ics.uci.edu/aiml/page/12
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+
  URL results for Query hello
-total count: 0
+
+ URL results for Query the
+www.ics.uci.edu/~dock/manuals/oechem/api/node939.html
+www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld028.htm
+www.ics.uci.edu/~pattis/common/handouts/macclion/clang.html
+www.ics.uci.edu/~goodrich/teach/ics23/LabManual/LordOfTheRingbinders
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/~dock/manuals/cgal_manual/Polyhedron_ref/Class_Polyhedron_3-Traits---Halfedge.html
+www.ics.uci.edu/~alspaugh/cls/shr/goodAbstract.html
+satware.ics.uci.edu
+fano.ics.uci.edu/cites/Location/Synthesis-of-Parallel-Algorithms.html
+www.ics.uci.edu/Arcadia/Teamware/demo/attach.html
+www.ics.uci.edu/brenhall/community/events/index.php
+www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm04.html
+sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
+wics.ics.uci.edu/wics-attends-cwic-socal
+www.ics.uci.edu/~eppstein/junkyard/misc.html
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
+
  URL results for Query what
 www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld007.htm
 ironwood.ics.uci.edu/wiki:navigation?rev=1376434009&vecdo=print
 www.ics.uci.edu/~kay/courses/139w/whatswrong.html
 www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm04.html
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
 wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
@@ -43,54 +117,97 @@ www.ics.uci.edu/~pattis/common/handouts/macclion/clang.html
 ironwood.ics.uci.edu/wiki:department_contacts?rev=1376418840&vecdo=cite
 www.ics.uci.edu/~eppstein/junkyard/misc.html
 ironwood.ics.uci.edu/wiki:student_group?rev=1475019454&vecdo=cite
-total count: 16
- URL results for Query correct
-total count: 0
- URL results for Query thornton
-www.ics.uci.edu/~goodrich/teach/ics23/LabManual/LordOfTheRingbinders
-total count: 1
- URL results for Query pattis
-www.ics.uci.edu/~pattis/ICS-21/lectures/inheritancei/index.html
-www.ics.uci.edu/~pattis/common/handouts/checkin?C=S;O=D
-total count: 2
- URL results for Query wics
-wics.ics.uci.edu/wics-attends-cwic-socal
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
-wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
-wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
-www.ics.uci.edu/~wics/links.html
-total count: 8
- URL results for Query where
-duttgroup.ics.uci.edu/doku.php/sidebar
+
+ URL results for Query is
+www.ics.uci.edu/~dock/manuals/oechem/api/node939.html
+www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld007.htm
+www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld028.htm
+www.ics.uci.edu/Arcadia/Teamware/demo/attach.html
+gonet.genomics.ics.uci.edu/fgo/f4_832_1.html
+www.ics.uci.edu/~dock/manuals/cgal_manual/Polyhedron_ref/Class_Polyhedron_3-Traits---Halfedge.html
+www.ics.uci.edu/~alspaugh/cls/shr/goodAbstract.html
+www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm04.html
 satware.ics.uci.edu
+ironwood.ics.uci.edu/wiki:navigation?rev=1376434009&vecdo=print
+www.ics.uci.edu/~goodrich/teach/ics23/LabManual/LordOfTheRingbinders
+www.ics.uci.edu/~pattis/common/handouts/macclion/clang.html
+www.ics.uci.edu/~pattis/common/handouts/macclion/libraries/gtestlib/test/gtest_output_test_golden_lin.txt
+gonet.genomics.ics.uci.edu/fgo/f4_334_1.html
+duttgroup.ics.uci.edu/doku.php/sidebar
 www.ics.uci.edu/~theory/269/s01.html
 duttgroup.ics.uci.edu/doku.php/home?tab_files=search&do=media&tab_details=view&image=hossein.jpg&ns=
 duttgroup.ics.uci.edu/doku.php/drg101_admin?ns=presentations%3Aplans&tab_files=files&do=media&tab_details=history&image=andre.png
+sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
 duttgroup.ics.uci.edu/doku.php/home?ns=documents&tab_files=files&do=media&tab_details=view&image=prof-tomiyama.jpg
-duttgroup.ics.uci.edu/doku.php/drg101_admin?ns=presentations&tab_files=files&do=media&tab_details=edit&image=photos%3Afarewell_trent_113012_02.jpg
-www.ics.uci.edu/~pattis/common/handouts/macclion/libraries/gtestlib/test/gtest_output_test_golden_lin.txt
-www.ics.uci.edu/~goodrich/teach/ics23/LabManual/LordOfTheRingbinders
-duttgroup.ics.uci.edu/doku.php/projects?image=esweek2016.jpg&amp;ns=&amp;tab_details=view&amp;do=media
+
+ URL results for Query there
+www.ics.uci.edu/~wics/links.html
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
+www.ics.uci.edu/~alspaugh/cls/shr/goodAbstract.html
+wics.ics.uci.edu/wics-attends-cwic-socal
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+satware.ics.uci.edu
+www.ics.uci.edu/~eppstein/junkyard/misc.html
+
+ URL results for Query uci
+www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/contact/contact/contact/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/student-affairs
+ironwood.ics.uci.edu/wiki:department_contacts?rev=1376418840&vecdo=cite
+ironwood.ics.uci.edu/wiki:student_group?rev=1475019454&vecdo=cite
+www.ics.uci.edu/~pattis/common/handouts/checkin?C=S;O=D
+www.ics.uci.edu/~wics/links.html
+www.ics.uci.edu/~develop/OCBJ_Ad_Photos?C=M;O=D
+duttgroup.ics.uci.edu/doku.php/sidebar
+cbcl.ics.uci.edu/doku.php/software/arem?do=login&sectok=b4b26dccc6fc851c3fcdc7de96f9200d
+cbcl.ics.uci.edu/doku.php/start?do=login&sectok=f00db2fc1ecde81c02d85b365453ea74
+cbcl.ics.uci.edu/doku.php/software/arem?do=login&sectok=e1d7a14f1132a8a69c57e4590fe43897
+cbcl.ics.uci.edu/doku.php/people?do=login&amp;sectok=9b55b722e4583236b42dc071caa5ad42
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+www.ics.uci.edu/~rickl/courses/cs-171/2014-fq-cs171/CS-171-FQ-2014_files
+duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
+www.ics.uci.edu/~majumder/VC/assn?C=M;O=A
+www.ics.uci.edu/~michele/Personal/Buttons-old?C=D;O=D
+www.ics.uci.edu/~irus//css/98/mini-tutorial/tsld018.htm
 www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/index.php
-www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/index.php
 www.ics.uci.edu/alumni/mentor/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/inductees.aspx.php
-www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/index.php
-duttgroup.ics.uci.edu/doku.php/grouptab_details_view_image_rahmani.jpg_ns_do_media?tab_details=history&do=media&tab_files=files&image=yukio-farewell-lunch-jan28-2014.jpg&ns=
-total count: 15
- URL results for Query hello
-total count: 0
- URL results for Query excuse
-total count: 0
+
+ URL results for Query edu
+fano.ics.uci.edu/cites/Author/James-H-Oliver.html
+www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/contact/contact/contact/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+www.ics.uci.edu/prospective/ko/contact/student-affairs/contact/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/student-affairs
+ironwood.ics.uci.edu/wiki:department_contacts?rev=1376418840&vecdo=cite
+ironwood.ics.uci.edu/wiki:student_group?rev=1475019454&vecdo=cite
+fano.ics.uci.edu/cites/Author/Philipp-Koehn.html
+www.ics.uci.edu/~pattis/common/handouts/checkin?C=S;O=D
+www.ics.uci.edu/~develop/OCBJ_Ad_Photos?C=M;O=D
+fano.ics.uci.edu/cites/Document/An-experimental-study-of-polylogarithmic-fully-dynamic-connectivity-algorithms.html
+www.ics.uci.edu/~rickl/courses/cs-171/2014-fq-cs171/CS-171-FQ-2014_files
+duttgroup.ics.uci.edu/doku.php/banaiyan?do=export_xhtml
+www.ics.uci.edu/~majumder/VC/assn?C=M;O=A
+www.ics.uci.edu/~michele/Personal/Buttons-old?C=D;O=D
+www.ics.uci.edu/~irus//css/98/mini-tutorial/tsld018.htm
+www.ics.uci.edu/prospective/en/contact/student-affairs/contact/student-affairs/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/contact/student-affairs/%E2%80%8B
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+cbcl.ics.uci.edu/doku.php/start?do=diff&rev2%5B0%5D=1396651030&rev2%5B1%5D=1485305125&difftype=sidebyside
+ganglia.ics.uci.edu?c=igb-benzene&h=c1ccccc1-42.ics.uci.edu&m=load_one&r=hour&s=by%20name&hc=4&mc=2/css/qtip.min.css/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880170&amp;v=0.97&amp;m=load_five&amp;vl=%20&amp;ti=Five%20Minute%20Load%20Average&amp;z=large/css/jquery.multiselect.css/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880170&amp;v=1.03&amp;m=load_one&amp;vl=%20&amp;ti=One%20Minute%20Load%20Average&amp;z=large/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880170&amp;v=85.7&amp;m=cpu_aidle&amp;vl=%25&amp;ti=CPU%20aidle&amp;z=large/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880170&amp;v=4.2&amp;m=cpu_nice&amp;vl=%25&amp;ti=CPU%20Nice&amp;z=large/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880185&amp;v=0.1&amp;m=cpu_user&amp;vl=%25&amp;ti=CPU%20User&amp;z=large/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880185&amp;v=115.13&amp;m=bytes_in&amp;vl=bytes%2Fsec&amp;ti=Bytes%20Received&amp;z=large/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880185&amp;v=0.95&amp;m=load_fifteen&amp;vl=%20&amp;ti=Fifteen%20Minute%20Load%20Average&amp;z=large/aggregate_graphs.php/./graph_all_periods.php?c=igb-benzene&amp;h=c1ccccc1-42.ics.uci.edu&amp;r=hour&amp;z=default&amp;jr=&amp;js=&amp;st=1486880185&amp;v=364088&amp;m=mem_buffers&amp;vl=KB&amp;ti=Memory%20Buffers&amp;z=large
+www.ics.uci.edu/~bic/os/TIFF/Ch01?C=D;O=A
+www.ics.uci.edu/~wscacchi/GameLab/DinoQuestOnline?C=M;O=A
+
+ URL results for Query grace
+
  URL results for Query what
 www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld007.htm
 ironwood.ics.uci.edu/wiki:navigation?rev=1376434009&vecdo=print
 www.ics.uci.edu/~kay/courses/139w/whatswrong.html
 www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm04.html
-wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
 wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
 wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
@@ -101,6 +218,50 @@ www.ics.uci.edu/~pattis/common/handouts/macclion/clang.html
 ironwood.ics.uci.edu/wiki:department_contacts?rev=1376418840&vecdo=cite
 www.ics.uci.edu/~eppstein/junkyard/misc.html
 ironwood.ics.uci.edu/wiki:student_group?rev=1475019454&vecdo=cite
-total count: 16
- URL results for Query will 
-total count: 0
+
+ URL results for Query there
+www.ics.uci.edu/~wics/links.html
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
+www.ics.uci.edu/~alspaugh/cls/shr/goodAbstract.html
+wics.ics.uci.edu/wics-attends-cwic-socal
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+satware.ics.uci.edu
+www.ics.uci.edu/~eppstein/junkyard/misc.html
+
+ URL results for Query info
+graphmod.ics.uci.edu/group/MoinMoin?action=info
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg44_page_id=4&afg13_page_id=2&afg34_page_id=3&afg22_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page/2/&afg44_page_id=3&afg15_page_id=3&afg43_page_id=2&afg34_page_id=3
+wics.ics.uci.edu/wics-attends-cwic-socal
+
+ URL results for Query news
+cml.ics.uci.edu/2007/12/2007_honors
+cml.ics.uci.edu/aiml/page/12
+sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/index.php
+www.ics.uci.edu/alumni/mentor/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/inductees.aspx.php
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/index.php
+www.ics.uci.edu/alumni/mentor/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/hall_of_fame/stayconnected/stayconnected/stayconnected/hall_of_fame/hall_of_fame/hall_of_fame/hall_of_fame/stayconnected/hall_of_fame/stayconnected/index.php
+www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+www.ics.uci.edu/~wics/links.html
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Abalonedatasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Car+Evaluation
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/about.html
+www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/Gas+sensors+for+home+activity+monitoring
+chenli.ics.uci.edu/biography
+www.ics.uci.edu/about/bren/index.php/bren_vision.php/grad/index.php/search/index.php/bren_press.php/ICS/ics/grad/index.php/bren_about.php/ICS/ics/about
+www.ics.uci.edu/brenhall/community/events/index.php
+www.ics.uci.edu/about/visit/../bren/index.php/bren_advance.php/../brenhall/index.php/bren_vision.php/../../ugrad/index.php/bren_vision.php/bren_press.php/../about_mission.php/../about_safety.php/index.php/bren_advance.php/../search/index.php/bren_press.php/bren_vision.php/../brenhall/index.php/../search/index.php/../about_mission.php/../about_contact.php/../../grad/index.php/bren_advance.php/../../ugrad/index.php/../visit/index.php/index.php/../brenhall/index.php/ICS/ics/about/about_facts/index.php/../about_contact.php/../../ugrad/index.php/../about_mission.php/../about_contact.php/../brenhall/index.php/bren_advance.php/../about_safety.php/../about_contact.php/../../grad/index.php/bren_vision.php/../brenhall/index.php/../../grad/index.php/../../grad/index.php/../about_deanmsg.php/bren_press.php/index.php/bren_press.php/../search/index.php/bren_press.php/../brenhall/index.php/../../grad/index.php/bren_advance.php/../../grad/index.php/../search/index.php
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2&afg34_page_id=4&afg41_page_id=2&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2Fpage/2/&afg42_page_id=2&afg15_page_id=3&afg44_page_id=5
+wics.ics.uci.edu/category/news/info-session?afg41_page_id=2page%2F2%2F&afg44_page_id=3&afg42_page_id=2
+wics.ics.uci.edu/category/news/info-session?afg12_page_id=2page%2F2%2F&afg13_page_id=2&afg34_page_id=1
