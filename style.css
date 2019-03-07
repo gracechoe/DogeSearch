@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+h3 {
+    font-family: "Comic Sans MS";
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+}
+
+body {
+    background-image: url(doge.jpg);
+}
+
+
+.div_center {
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    padding: 10px;
+}
+
+#result_label {
+    font-family: "Comic Sans MS";
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#query_input {
+    width: 80%;
+    font-size: 30px;
+}
+
+#search_button {
+    width: 25%;
+    padding: 10px;
+    font-size: 30px;
+}
