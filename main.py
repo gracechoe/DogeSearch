@@ -146,7 +146,7 @@ def create_output_file():
 
     while True:
         query = raw_input("Type your query: ")
-        
+
         if query == "q":
             log_file = open("M2Analytics.txt", "w+")
             log_file.write(output_str)
@@ -154,15 +154,16 @@ def create_output_file():
             sys.exit()
 
         output_str += "\n URL results for Query " + str(query) + "\n"
+        query = re.findall(r"[A-Za-z0-9]+", query.decode('utf-8').lower())
         output_str += get_urls(query) 
 
 # retrieves all urls that contain the token, returns a string with 20 of those urls and total url count
-def get_urls(token):
+def get_urls(tokens):
     global data
     result = ""
     count = 0
 
-    query_dict = compute_queries(token.split(" "))
+    query_dict = compute_queries(tokens)
     ranked = sorted(query_dict.items(), key=lambda k: (-k[1][1], -k[1][0]))
     
     for doc, _ in ranked:
@@ -177,7 +178,7 @@ def compute_queries(tokens):
     global stemmer
     d = defaultdict(list)
     for token in tokens:
-        entry = index_col.find_one({'token':stemmer.stem(token).lower()})
+        entry = index_col.find_one({'token':stemmer.stem(token)})
         if entry:
             for doc, tf_idf in zip(entry["documents"], entry["tf-idf"]):
                 if doc in d:
