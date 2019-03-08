@@ -1,5 +1,4 @@
 h1 {
-    font-family: "Comic Sans MS";
     font-weight: bold;
     color: white;
     background-color: black;
@@ -10,7 +9,6 @@ h1 {
 }
 
 h3 {
-    font-family: "Comic Sans MS";
     color: white;
     background-color: black;
     text-align: center;
@@ -21,6 +19,7 @@ h3 {
 
 body {
     background-image: url(doge.jpg);
+    font-family: "Comic Sans MS";
 }
 
 
@@ -44,20 +43,20 @@ body {
 }
 
 #result_label {
-    font-family: "Comic Sans MS";
     color: black;
     background-color: white;
     text-align: left;
 }
 
 #query_input {
+    font-family: "Comic Sans MS";
     width: 80%;
     font-size: 30px;
-    font-family: "Comic Sans MS";
 }
 
 #search_button {
     width: 25%;
     padding: 10px;
     font-size: 30px;
+    font-family: "Comic Sans MS";
 }
