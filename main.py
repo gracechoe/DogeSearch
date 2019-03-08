@@ -37,9 +37,9 @@ def initialize():
 
     for key in data:
         print(count) 
-        if count == 100:
+        """ if count == 100:
             process_file(key)
-            break
+            break """
         process_file(key)
         count += 1
 
