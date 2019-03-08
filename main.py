@@ -21,7 +21,7 @@ Notes:
 - index_col.create_index({'token':1}) <-- key command to making program run faster
 """
 # MAKE SURE TO CHANGE to respective directory! 
-path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
+path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
 bookkeeping = open(path+"bookkeeping.json", "r")
 data = json.load(bookkeeping)
 client = MongoClient("mongodb://localhost:27017/")
@@ -37,7 +37,7 @@ def initialize():
 
     for key in data:
         print(count) 
-        if count == 50:
+        if count == 1000:
             process_file(key)
             break
         process_file(key)
@@ -70,7 +70,7 @@ def process_file(key):
 
         for token in tokens:
             token = stemmer.stem(token)
-            if token_count > 50000:
+            if token_count > 30000:
                 raise Exception('Token dict too long')
             if len(token) < 20:
                 token_count += 1
@@ -116,8 +116,13 @@ def complete_index():
     global index_col
     global doc_col
     doc_count = doc_col.count()
+    print(doc_count)
+    entry_count = 0
 
-    for entry in index_col.find():
+    for entry in index_col.find().batch_size(50):
+        entry_count += 1
+        print(entry_count)
+
         docs = entry['documents']
         freqs = entry['word_freq']
         token = entry['token']
@@ -130,7 +135,7 @@ def complete_index():
                 idf = math.log(float(doc_count)/len(docs))
                 tf_idf = tf*idf
 
-                index_col.update({'token':token},{"$push":{'tf-idf':tf_idf}})
+                index_col.update_one({'token':token},{"$push":{'tf-idf':tf_idf}})
             except:
                 print("caught an error")
                 pass
