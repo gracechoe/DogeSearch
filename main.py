@@ -180,6 +180,7 @@ def get_urls(tokens):
     print(result)
     return result
 
+# creates a dictionary of documents with the respective td-idf and token count
 def compute_queries(tokens):
     global index_col
     global stemmer
