@@ -6,6 +6,11 @@ from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from collections import defaultdict
 from nltk.stem.snowball import SnowballStemmer
+from flask import Flask
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
 
 """
 Notes: 
@@ -16,7 +21,7 @@ Notes:
 - index_col.create_index({'token':1}) <-- key command to making program run faster
 """
 # MAKE SURE TO CHANGE to respective directory! 
-path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
+path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
 bookkeeping = open(path+"bookkeeping.json", "r")
 data = json.load(bookkeeping)
 client = MongoClient("mongodb://localhost:27017/")
@@ -32,7 +37,7 @@ def initialize():
 
     for key in data:
         print(count) 
-        if count == 100:
+        if count == 10000:
             process_file(key)
             break
         process_file(key)
@@ -65,7 +70,7 @@ def process_file(key):
 
         for token in tokens:
             token = stemmer.stem(token)
-            if token_count > 10000:
+            if token_count > 50000:
                 raise Exception('Token dict too long')
             if len(token) < 20:
                 token_count += 1
@@ -158,10 +163,12 @@ def create_output_file():
         output_str += get_urls(query) 
 
 # retrieves all urls that contain the token, returns a string with 20 of those urls and total url count
+@app.route("/get_urls/<tokens>")
 def get_urls(tokens):
     global data
     result = ""
     count = 0
+    tokens = re.findall(r"[A-Za-z0-9]+", tokens.decode('utf-8').lower())
 
     query_dict = compute_queries(tokens)
     ranked = sorted(query_dict.items(), key=lambda k: (-k[1][1], -k[1][0]))
@@ -191,4 +198,5 @@ def compute_queries(tokens):
 if __name__ == "__main__":
     initialize()
     complete_index()
-    create_output_file()
+    #create_output_file()
+    app.run(host='0.0.0.0')
