@@ -21,7 +21,7 @@ Notes:
 - index_col.create_index({'token':1}) <-- key command to making program run faster
 """
 # MAKE SURE TO CHANGE to respective directory! 
-path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
+path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
 bookkeeping = open(path+"bookkeeping.json", "r")
 data = json.load(bookkeeping)
 client = MongoClient("mongodb://localhost:27017/")
@@ -37,7 +37,7 @@ def initialize():
 
     for key in data:
         print(count) 
-        if count == 1000:
+        if count == 100:
             process_file(key)
             break
         process_file(key)
@@ -140,33 +140,6 @@ def complete_index():
                 print("caught an error")
                 pass
 
-# creates output file for the program analytics with various kinds of info
-def create_output_file():
-    global db
-    output_str = "PROGRAM ANALYTICS"
-
-    output_str += "\n Number of Documents: "
-    output_str += str(db["docs"].find().count())
-
-    output_str += "\n Number of Unique Words: "
-    output_str += str(db["index"].find().count())
-
-    output_str += "\n Total size of Index on Disk (in KB):"
-    output_str += str(db.command({"collStats":"index", "scale":1024})["totalIndexSize"])
-
-    while True:
-        query = raw_input("Type your query: ")
-
-        if query == "q":
-            log_file = open("M2Analytics.txt", "w+")
-            log_file.write(output_str)
-            log_file.close()
-            sys.exit()
-
-        output_str += "\n URL results for Query " + str(query) + "\n"
-        query = re.findall(r"[A-Za-z0-9]+", query.decode('utf-8').lower())
-        output_str += get_urls(query) 
-
 # retrieves all urls that contain the token, returns a string with 20 of those urls and total url count
 @app.route("/get_urls/<tokens>")
 def get_urls(tokens):
@@ -203,5 +176,4 @@ def compute_queries(tokens):
 if __name__ == "__main__":
     initialize()
     complete_index()
-    #create_output_file()
     app.run(host='0.0.0.0')
