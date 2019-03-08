@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from collections import defaultdict
 from nltk.stem.snowball import SnowballStemmer
-from flask import Flask
+from flask import Flask, jsonify
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -21,7 +21,7 @@ Notes:
 - index_col.create_index({'token':1}) <-- key command to making program run faster
 """
 # MAKE SURE TO CHANGE to respective directory! 
-path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
+path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
 bookkeeping = open(path+"bookkeeping.json", "r")
 data = json.load(bookkeeping)
 client = MongoClient("mongodb://localhost:27017/")
@@ -37,7 +37,7 @@ def initialize():
 
     for key in data:
         print(count) 
-        if count == 10000:
+        if count == 50:
             process_file(key)
             break
         process_file(key)
@@ -166,7 +166,7 @@ def create_output_file():
 @app.route("/get_urls/<tokens>")
 def get_urls(tokens):
     global data
-    result = ""
+    result = []
     count = 0
     tokens = re.findall(r"[A-Za-z0-9]+", tokens.decode('utf-8').lower())
 
@@ -175,10 +175,9 @@ def get_urls(tokens):
     
     for doc, _ in ranked:
         if count < 20:
-            result += data[doc] + "\n"
+            result.append(data[doc])
         count += 1
-    print(result)
-    return result
+    return jsonify(result)
 
 # creates a dictionary of documents with the respective td-idf and token count
 def compute_queries(tokens):

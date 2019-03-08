@@ -31,13 +31,24 @@ body {
     padding: 10px;
 }
 
+#result_box{
+    margin: auto;
+    text-align: left;
+    border: 2px solid black;
+    background-color: white;
+    padding: 5%;
+    opacity: 0.9;
+    width: 80%;
+    height: 30%;
+    word-wrap: break-word;
+}
+
 #result_label {
     font-family: "Comic Sans MS";
     color: black;
     background-color: white;
     text-align: left;
 }
-
 
 #query_input {
     width: 80%;
