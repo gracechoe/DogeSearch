@@ -33,14 +33,16 @@ body {
 
 #result_label {
     font-family: "Comic Sans MS";
-    color: white;
-    background-color: black;
-    text-align: center;
+    color: black;
+    background-color: white;
+    text-align: left;
 }
+
 
 #query_input {
     width: 80%;
     font-size: 30px;
+    font-family: "Comic Sans MS";
 }
 
 #search_button {
