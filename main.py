@@ -21,7 +21,7 @@ Notes:
 - index_col.create_index({'token':1}) <-- key command to making program run faster
 """
 # MAKE SURE TO CHANGE to respective directory! 
-path = "/Users/macbookpro/Documents/WEBPAGES_RAW/"
+path = "/Users/gracechoe/Documents/WEBPAGES_RAW/"
 bookkeeping = open(path+"bookkeeping.json", "r")
 data = json.load(bookkeeping)
 client = MongoClient("mongodb://localhost:27017/")
@@ -36,12 +36,12 @@ def initialize():
     count = 0
 
     for key in data:
-        print(count) 
-        """ if count == 100:
-            process_file(key)
-            break """
-        process_file(key)
         count += 1
+        print(count) 
+        # if count == 500:
+        #     process_file(key)
+        #     break
+        process_file(key)
 
 """
 (1) Takes in a string path that points to where the desired file is contained
